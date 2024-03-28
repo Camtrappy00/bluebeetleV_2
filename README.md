@@ -10,7 +10,7 @@
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=DAMON+WHATSAPP+BOT" alt="">
 </p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-DAMON_KIM-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-TRAPPY-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="'https://wa.me/+254703251900yoh+Trappy⸼ +nishow+venye+nitadeploy+beetle-ai'"><img title="Whatsapp" src="'https://wa.me/254790593618yoh+Damon⸼ +nishow+venye+nitadeploy+beetle'?color=green&style=flat-square"></a>
@@ -34,7 +34,7 @@ DEPLOY ON HEROKU<br>
   <br>
   
 
-***Made on Earth by 𝑲𝒊𝒏𝒈 𝑮 ***
+***Made on Earth by 𝐓𝐫𝐚𝐩𝐩𝐲***
 
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)***
