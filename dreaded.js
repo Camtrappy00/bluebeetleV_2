@@ -82,7 +82,7 @@ const antibot = process.env.ANTIBOT || 'FALSE';
     const mime = (quoted.msg || quoted).mimetype || "";
             const qmsg = (quoted.msg || quoted);
     const author = process.env.STICKER_AUTHOR ||'𝐁𝐋𝐔𝐄-𝐁𝐄𝐄𝐓𝐋𝐄 ';
-    const packname = process.env.STICKER_PACKNAME || '𝘿𝙖𝙢𝙤𝙣';
+    const packname = process.env.STICKER_PACKNAME || '𝙏𝙍𝘼𝙋𝙋𝙔';
 const dev = process.env.DEV || '254790593618'
 
 const menu = process.env.MENU_TYPE || 'VIDEO';
@@ -385,7 +385,7 @@ case "help":
 
 let cap = `╭════〘 𝐁𝐋𝐔𝐄 𝐁𝐄𝐄𝐓𝐋𝐄  〙═⊷⏣
 ┃✠╭──────────────┉◕
-┃✠│ 𝗢𝘄𝗻𝗲𝗿 :𝑲𝒊𝒏𝒈 𝑮
+┃✠│ 𝗢𝘄𝗻𝗲𝗿 :𝑲𝒊𝒏𝒈 𝐓𝐫𝐚𝐩𝐩𝐲
 ┃✠│ 𝗨𝘀𝗲𝗿 : ${m.pushName}︎︎
 ┃✠│ 𝗥𝘂𝗻𝘁𝗶𝗺𝗲 :${runtime(process.uptime())}
 ┃✠│ 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : 𝐋𝐢𝐧𝐮𝐱
@@ -516,7 +516,7 @@ let cap = `╭════〘 𝐁𝐋𝐔𝐄 𝐁𝐄𝐄𝐓𝐋𝐄  〙═�
 ┃✠│${prefix}𝐑𝐞𝐯𝐨𝐤𝐞.
 ┃✠│
 ┃✜╰┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅⏣
-┃➠    ▒▓☫ 𝐌𝐚𝐝𝐞 𝐁𝐲 𝘿𝙖𝙢𝙤𝙣 ▓▒ 
+┃➠    ▒▓☫ 𝐌𝐚𝐝𝐞 𝐁𝐲 𝙏𝙧𝙖𝙥𝙥𝙮 ▓▒ 
 ╰════════════════⊷⏣`;
 
 if (menu === 'VIDEO') {
@@ -1966,7 +1966,7 @@ case "movie":
              } 
  break;
  
-      case "Kimmy": case "owner": case "Kimmy": 
+      case "Kimmy": case "owner": case "Trappy": 
  client.sendMessage(m.chat, { video: { url: 'https://telegra.ph/file/20398aa1a753cf476f768.mp4' }, caption: `𝐇𝐞𝐫𝐞 𝐢𝐬 𝐦𝐲 𝐚𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬 𝐜𝐫𝐞𝐚𝐭𝐨𝐫, +254790593618 ☤☬` }, {quoted: m}); 
   
  break;
@@ -2082,7 +2082,7 @@ case "movie":
         case "gpt": case "king": 
           
 
-            if (!text) return reply("Hello am 𝐁𝐄𝐄𝐓𝐋𝐄  an Ai developed by  𝛫𝛪𝛭𝛭𝑌, how can I assist you today?");
+            if (!text) return reply("Hello am 𝐁𝐄𝐄𝐓𝐋𝐄  an Ai developed by  𝙏𝙧𝙖𝙥𝙥𝙮, how can I assist you today?");
 
            const configuration = new Configuration({
 
