@@ -1,13 +1,13 @@
-# 𝐁𝐋𝐔𝐄-𝐁𝐄𝐄𝐓𝐋𝐄 
+# 𝐓𝐑𝐀𝐏𝐏𝐘-𝐁𝐎𝐓
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝐁𝐋𝐔𝐄-𝐁𝐄𝐄𝐓𝐋𝐄 ;WHATSAPP+BOT;CREATED+BY+DAMON" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝐁𝐋𝐔𝐄-𝐁𝐄𝐄𝐓𝐋𝐄 ;WHATSAPP+BOT;CREATED+BY+TRAPPY" alt="Typing SVG" /></a>
   </p>
   
 <p align="center">
 <img src="https://telegra.ph/file/fa2ad5b56ede20ddea5c5.jpg" width="650" height="500"/>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=DAMON+WHATSAPP+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=TRAPPY+WHATSAPP+BOT" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-TRAPPY-red.svg?style=for-the-badge&logo=github"></a>
