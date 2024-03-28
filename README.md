@@ -4,7 +4,7 @@
   </p>
   
 <p align="center">
-<img src="https://telegra.ph/file/dd2557ac4a85507c077d7.jpg" width="650" height="500"/>
+<img src="https://telegra.ph/file/fa2ad5b56ede20ddea5c5.jpg" width="650" height="500"/>
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=DAMON+WHATSAPP+BOT" alt="">
@@ -13,9 +13,9 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-DAMON_KIM-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="'https://wa.me/+254790593618yoh+Damon⸼ +nishow+venye+nitadeploy+beetle-ai'"><img title="Whatsapp" src="'https://wa.me/254790593618yoh+Damon⸼ +nishow+venye+nitadeploy+beetle'?color=green&style=flat-square"></a>
+<a href="'https://wa.me/+254703251900yoh+Trappy⸼ +nishow+venye+nitadeploy+beetle-ai'"><img title="Whatsapp" src="'https://wa.me/254790593618yoh+Damon⸼ +nishow+venye+nitadeploy+beetle'?color=green&style=flat-square"></a>
   
-<a href="https://wa.me/254790593618yohyoh+Damon⸼"><img title="Twitter" src="https://x.com/NSirm5?s=09?color=black&style=flat-square"></a>
+<a href="https://wa.me/254703251900yohyoh+Trappy⸼"><img title="Twitter" src="https://x.com/NSirm5?s=09?color=black&style=flat-square"></a>
 <a href="https://github.com/Madmkisii/Blue-Beetle-V2/network/members"><img title="Forks" src="https://img.shields.io/github/for/Madmkisii/Blue-Beetle-V2?color=yellow&style=flat-square"></a>
 <a href="https://github.com/Madmkisii/Blue-Beetle-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/drexmose/drex-ai?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/Madmkisii/Blue-Beetle-V2/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
