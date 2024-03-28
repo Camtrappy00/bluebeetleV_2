@@ -1,6 +1,6 @@
 {
-  "name": "Blue-Beetle",
-  "description": "𝐁𝐋𝐔𝐄 𝐁𝐄𝐄𝐓𝐋𝐄 ",
+  "name": "𝐓𝐑𝐀𝐏𝐏𝐘",
+  "description": "𝐓𝐑𝐀𝐏𝐏𝐏𝐘-𝐁𝐎𝐓",
   "keywords": [
     "bot",
     "whatsapp",
@@ -14,9 +14,9 @@
     "baileys-md",
     "md-bot"
   ],
-  "website": "https://github.com/Madmkisii/Blue-Beetle-V2#readme",
-  "repository": "https://github.com/Madmkisii/Blue-Beetle-V2.git",
-  "logo": "https://telegra.ph/file/dd2557ac4a85507c077d7.jpg",
+  "website": "https://github.com/Camtrappy00/bluebeetleV_2",
+  "repository": "https://github.com/Camtrappy00/bluebeetleV_2",
+  "logo": "https://telegra.ph/file/9830633c0e0e2f829665d.jpg",
   "success_url": "/",
   "env": {
     "PREFIX": {
@@ -25,7 +25,7 @@
 
     },
     "DEV": {
-      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254790593618, 254102350531 ",
+      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254703251900, 254714208387 ",
       "required": true
     },
     "NOT_OWNER_MSG": {
