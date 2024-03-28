@@ -82,7 +82,7 @@ const antibot = process.env.ANTIBOT || 'FALSE';
     const mime = (quoted.msg || quoted).mimetype || "";
             const qmsg = (quoted.msg || quoted);
     const author = process.env.STICKER_AUTHOR ||'𝐁𝐋𝐔𝐄-𝐁𝐄𝐄𝐓𝐋𝐄 ';
-    const packname = process.env.STICKER_PACKNAME || '𝙏𝙍𝘼𝙋𝙋𝙔';
+    const packname = process.env.STICKER_PACKNAME || '𝐓𝐑𝐀𝐏𝐏𝐘';
 const dev = process.env.DEV || '254790593618'
 
 const menu = process.env.MENU_TYPE || 'VIDEO';
@@ -385,7 +385,7 @@ case "help":
 
 let cap = `╭════〘 𝐁𝐋𝐔𝐄 𝐁𝐄𝐄𝐓𝐋𝐄  〙═⊷⏣
 ┃✠╭──────────────┉◕
-┃✠│ 𝗢𝘄𝗻𝗲𝗿 :𝑲𝒊𝒏𝒈 𝐓𝐫𝐚𝐩𝐩𝐲
+┃✠│ 𝗢𝘄𝗻𝗲𝗿 :𝑲𝒊𝒏𝒈 𝐓𝐑𝐀𝐏𝐏𝐘
 ┃✠│ 𝗨𝘀𝗲𝗿 : ${m.pushName}︎︎
 ┃✠│ 𝗥𝘂𝗻𝘁𝗶𝗺𝗲 :${runtime(process.uptime())}
 ┃✠│ 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : 𝐋𝐢𝐧𝐮𝐱
@@ -718,7 +718,7 @@ const rel = await quote(xf, pushname, pppuser)
                 
                 client.sendImageAsSticker(m.chat, rel.result, m, {
                     packname: pushname,
-                    author: `𝑲𝒊𝒏𝒈 𝑮`
+                    author: `𝑲𝒊𝒏𝒈 𝐓𝐑𝐀𝐏𝐏𝐏𝐘`
                 })
 
 } catch (errr) { 
@@ -2082,7 +2082,7 @@ case "movie":
         case "gpt": case "king": 
           
 
-            if (!text) return reply("Hello am 𝐁𝐄𝐄𝐓𝐋𝐄  an Ai developed by  𝙏𝙧𝙖𝙥𝙥𝙮, how can I assist you today?");
+            if (!text) return reply("Hello am 𝐁𝐄𝐄𝐓𝐋𝐄  an Ai developed by  𝐓𝐫𝐚𝐩𝐩𝐲, how can I assist you today?");
 
            const configuration = new Configuration({
 
@@ -2145,7 +2145,7 @@ async function getConversation() {
 
 // Handler for the "gpt" or "g" case
 async function handleGPTMessage(text, m) {
-  if (!text) return m.reply("Hello am 𝐁𝐄𝐄𝐓𝐋𝐄  an Ai developed by  𝛫𝛪𝛭𝛭𝑌, how can I assist you today?");
+  if (!text) return m.reply("Hello am 𝐁𝐄𝐄𝐓𝐋𝐄  an Ai developed by  𝐂𝐚𝐦𝐞𝐫𝐨𝐧, how can I assist you today?");
 
   const configuration = new Configuration({
     apiKey: setting,
