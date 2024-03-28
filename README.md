@@ -64,7 +64,7 @@ Linking/Pairing:[https://replit.com/@Madmkisii/Pairing-blue-beetle-1]
     
 <h2 align="center">   
 
-- Fork this repo by tapping  [here](https://github.com/Madmkisii/Blue-Beetle-V2/fork)
+- Fork this repo by tapping  [here](https://github.com/Camtrappy00/bluebeetleV_2)
 
 
 - Upload the creds.json that you received to the dreaded1 folder.
