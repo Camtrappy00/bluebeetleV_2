@@ -83,7 +83,7 @@ const antibot = process.env.ANTIBOT || 'FALSE';
             const qmsg = (quoted.msg || quoted);
     const author = process.env.STICKER_AUTHOR ||'𝐁𝐋𝐔𝐄-𝐁𝐄𝐄𝐓𝐋𝐄 ';
     const packname = process.env.STICKER_PACKNAME || '𝐓𝐑𝐀𝐏𝐏𝐘';
-const dev = process.env.DEV || '254790593618'
+const dev = process.env.DEV || '254703251900'
 
 const menu = process.env.MENU_TYPE || 'VIDEO';
  const DevDreaded = dev.split(",");
@@ -542,7 +542,7 @@ client.sendMessage(m.chat, {
                                 title: `𝐁𝐋𝐔𝐄-𝐁𝐄𝐄𝐓𝐋𝐄 `,
                                 body: `${runtime(process.uptime())}`,
                                 thumbnail: fs.readFileSync('./𝐁𝐥𝐮𝐞_𝐁𝐞𝐞𝐭𝐥𝐞.jpg'),
-                                sourceUrl: 'https://wa.me/254790593618?text=ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏+Nihostie+Bot+Mkuu+🥲',
+                                sourceUrl: 'https://wa.me/254703251900?text=ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏+Nihostie+Bot+Mkuu+🥲',
                                 mediaType: 1,
                                 renderLargerThumbnail: true
                             }
@@ -718,7 +718,7 @@ const rel = await quote(xf, pushname, pppuser)
                 
                 client.sendImageAsSticker(m.chat, rel.result, m, {
                     packname: pushname,
-                    author: `𝑲𝒊𝒏𝒈 𝐓𝐑𝐀𝐏𝐏𝐏𝐘`
+                    author: `𝑲𝒊𝒏𝒈 𝐒𝐇𝐄𝐋𝐁𝐘`
                 })
 
 } catch (errr) { 
